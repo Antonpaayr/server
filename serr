@@ -1,0 +1,20 @@
+[
+    {
+      "color": "FF0000",
+      "dopname": "(X2)",
+      "maxonline": 1000,
+      "name": "Delux",
+      "online": 47,
+      "ip": "141.94.184.108",
+      "port": 2273
+    },
+    {
+      "color": "FFFF00",
+      "dopname": "(X2)",
+      "maxonline": 100,
+      "name": "Test server",
+      "online": 0,
+      "ip": "146.59.209.106",
+      "port": 0000
+    }
+  ]
